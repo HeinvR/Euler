@@ -1,4 +1,4 @@
-numbers = [*range(1,21,1)]
+numbers = [*range(1, 21, 1)]
 i = 1
 
 while i < 1000000000:
